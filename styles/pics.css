@@ -39,7 +39,7 @@ body {
     position: fixed;
     padding: 14px;
     left: 0;
-    bottom: 0;
+    bottom: 50;
     width: 100%;
     background-color: #D5975A;
   }
